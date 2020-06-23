@@ -1,0 +1,3 @@
+C:\Users\Piotr\source\repos\WTS_NBP\WTS_NBP.Core.Tests.xUnit\bin\Debug\netcoreapp2.1\WTS_NBP.Core.dll
+C:\Users\Piotr\source\repos\WTS_NBP\WTS_NBP.Core.Tests.xUnit\obj\Debug\netcoreapp2.1\WTS_NBP.Core.Tests.xUnit.AssemblyInfoInputs.cache
+C:\Users\Piotr\source\repos\WTS_NBP\WTS_NBP.Core.Tests.xUnit\obj\Debug\netcoreapp2.1\WTS_NBP.Core.Tests.xUnit.AssemblyInfo.cs

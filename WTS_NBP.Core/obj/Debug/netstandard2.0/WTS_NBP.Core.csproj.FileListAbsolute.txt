@@ -1,0 +1,9 @@
+C:\Users\Piotr\source\repos\WTS_NBP\WTS_NBP.Core\obj\Debug\netstandard2.0\WTS_NBP.Core.AssemblyInfoInputs.cache
+C:\Users\Piotr\source\repos\WTS_NBP\WTS_NBP.Core\obj\Debug\netstandard2.0\WTS_NBP.Core.AssemblyInfo.cs
+C:\Users\Piotr\source\repos\WTS_NBP\WTS_NBP.Core\bin\Debug\netstandard2.0\WTS_NBP.Core.deps.json
+C:\Users\Piotr\source\repos\WTS_NBP\WTS_NBP.Core\bin\Debug\netstandard2.0\WTS_NBP.Core.dll
+C:\Users\Piotr\source\repos\WTS_NBP\WTS_NBP.Core\bin\Debug\netstandard2.0\WTS_NBP.Core.pdb
+C:\Users\Piotr\source\repos\WTS_NBP\WTS_NBP.Core\obj\Debug\netstandard2.0\WTS_NBP.Core.csprojAssemblyReference.cache
+C:\Users\Piotr\source\repos\WTS_NBP\WTS_NBP.Core\obj\Debug\netstandard2.0\WTS_NBP.Core.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\WTS_NBP\WTS_NBP.Core\obj\Debug\netstandard2.0\WTS_NBP.Core.dll
+C:\Users\Piotr\source\repos\WTS_NBP\WTS_NBP.Core\obj\Debug\netstandard2.0\WTS_NBP.Core.pdb
